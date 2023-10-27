@@ -1,4 +1,4 @@
-# java_calculation_automation
+# Calculation automation in Java
 This program calculates the following basic mathematical operations:
 
 - Double a number
